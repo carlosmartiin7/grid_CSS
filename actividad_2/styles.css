@@ -1,0 +1,38 @@
+.container{
+    display:grid;
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    grid-template-columns: 100px 100px 100px;
+    
+}
+.d1{
+   
+    background-color: rgb(87, 185, 87);
+
+}
+.d2{
+ 
+    background-color: rgb(124, 55, 55);
+
+}
+.d3{
+   
+    background-color: rgb(214, 214, 185);
+
+}
+.d4{
+    
+    background-color: lightpink;
+
+}
+.d5{
+   
+    background-color: rgb(59, 14, 221);
+
+}
+.d6{
+   
+    background-color: rgb(37, 112, 108);
+
+}
