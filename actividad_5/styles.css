@@ -9,32 +9,35 @@
     
 }
 .d1{
-   
+   height: 1fr;
+   width: 1fr;
     background-color: rgb(87, 185, 87);
 
 }
 .d2{
- 
+    height: 1fr;
+    width: 1fr;
     background-color: rgb(124, 55, 55);
 
 }
 .d3{
+    height: 1fr;
+    width: 1fr;
    
     background-color: rgb(214, 214, 185);
 
 }
 .d4{
+    height: 1fr;
+    width: 1fr;
     
     background-color: lightpink;
 
 }
 .d5{
+    height: 1fr;
+    width: 1fr;
    
     background-color: rgb(59, 14, 221);
-
-}
-.d6{
-   
-    background-color: rgb(37, 112, 108);
 
 }
